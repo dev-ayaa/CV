@@ -1,0 +1,45 @@
+td,thead {
+    padding: 12px
+}
+
+body{
+    background-color: #eaf6f6;
+}
+
+hr{
+    width: 30%;
+    border-color:gainsboro;
+    border-style: dotted none none;
+    border-top-style:dotted;
+    border-width: 5px;
+}
+
+h1{
+
+    font-size: 3vw;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    color:#66bfbf;
+}
+
+h2{
+    color:#66bfbf;
+}
+
+h3{
+    color:#66bfbf;
+}
+input{
+    border-style: none;
+    text-align:left;
+    border-radius: 24px;
+    border-top: 30px;
+    border-color: white;
+    padding: 9px;
+}
+
+.circle {
+
+    background-color: blueviolet;
+    border-radius: 60%;
+}
